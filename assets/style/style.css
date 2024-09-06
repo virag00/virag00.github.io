@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 body {
-  background: #f2f3fb;
+  background: #80bbf0;
   width: 100%;
   min-height: 100vh;
   font-family: "Roboto", sans-serif;
@@ -43,6 +43,7 @@ ul {
   background-color: #52c8ff;
   border-radius: 100%;
   overflow: hidden;
+  border-style: solid;
 }
 .picture img {
   height: 9rem;
