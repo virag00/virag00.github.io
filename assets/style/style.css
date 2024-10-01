@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 body {
-  background: #80bbf0;
+  background: #ab80f0;
   width: 100%;
   min-height: 100vh;
   font-family: "Roboto", sans-serif;
@@ -54,7 +54,7 @@ ul {
   font-size: 2rem;
   letter-spacing: 1.5px;
   font-weight: bold;
-  color: #00445a;
+  color: #000000;
 }
 
 /**On load name effect**/
@@ -91,7 +91,7 @@ ul {
   width: 100%;
   background-color: #f5f5fc;
   border-radius: 0.5rem;
-  border: 2px solid #343b45;
+  border: 2px solid #Ffd700;
   padding: 1rem 0;
   height: 3.45rem;
   overflow: hidden;
@@ -194,7 +194,7 @@ ul {
   margin: 1rem 0;
   border-radius: 0.5rem;
   backdrop-filter: blur(10px);
-  border: 2px solid #343b45;
+  border: 2px solid #Ffd700;
   background-color: #f5f5fc;
   padding: 1rem 0;
   transition: all 0.3s ease;
