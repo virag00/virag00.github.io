@@ -43,7 +43,7 @@ ul {
   background-color: #86d1f3;
   border-radius: 100%;
   overflow: hidden;
-  border-style: solid;
+  border: 2px solid #Ffd700;
 }
 .picture img {
   height: 9rem;
